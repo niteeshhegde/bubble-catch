@@ -9,10 +9,14 @@ A bubble missed will end the game. Speed increases with time.
 __Home Screen:__
 
 <img src="screenshots/welcome.jpg" height="480" width="240">
+
 __PlayGround Screen:__
 Purple colored bubble is assigned to the player.
-![PlayGround Screen](screenshots/playground.jpg  | width=100)
+
+<img src="screenshots/playground.jpg" height="480" width="240">
 
 __GameOver Screen:__
+
 Final Score and the reason for getting out is displayed. 
-![GameOver Screen](screenshots/endgame.jpg | width=100)
+
+<img src="screenshots/endgame.jpg" height="480" width="240">
