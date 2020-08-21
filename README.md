@@ -7,8 +7,7 @@ This has to be done without removing the fingers from the screen.
 A bubble missed will end the game. Speed increases with time.
 
 __Home Screen:__
-![Home Screen](screenshots/welcome.jpg  | width=100)
-<img src="screenshots/welcome.jpg" height="48" width="16">
+<img src="screenshots/welcome.jpg" height="480" width="160">
 __PlayGround Screen:__
 Purple colored bubble is assigned to the player.
 ![PlayGround Screen](screenshots/playground.jpg  | width=100)
