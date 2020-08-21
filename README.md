@@ -1,0 +1,1 @@
+A mobile game developed using Corona SDK where the players collect particular color bubbles falling from the sky without touching any other colored bubbles and obstacles accross. This has to be done without removing the fingers from the screen. A bubble missed will end the game. Speed increases with time.
