@@ -19,13 +19,13 @@ function gameover(score)
 go=1;
 local options =
 {
-effect = "fromTop",
-time = 3000,
-params =
-{
-var1 = pits,
-sample_var = score,
-}
+    effect = "fromTop",
+    time = 3000,
+    params =
+        {
+            var1 = pits,
+            sample_var = score,
+        }
 }
 timer.cancel(hey)
 
